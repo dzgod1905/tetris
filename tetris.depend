@@ -1,13 +1,13 @@
 # depslib dependency file v1.0
-1650780544 source:c:\users\admin\desktop\ltnc\tetris\main.cpp
+1651810802 source:c:\users\admin\desktop\ltnc\tetris\main.cpp
 	"Game.h"
 	<iostream>
 
-1651752995 source:c:\users\admin\desktop\ltnc\tetris\game.cpp
+1651810802 source:c:\users\admin\desktop\ltnc\tetris\game.cpp
 	<iostream>
 	"Game.h"
 
-1651747292 c:\users\admin\desktop\ltnc\tetris\game.h
+1651810802 c:\users\admin\desktop\ltnc\tetris\game.h
 	<SDL.h>
 	<SDL_image.h>
 	<bits/stdc++.h>
